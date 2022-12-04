@@ -9,7 +9,7 @@
 
 <div style="text-align: justify">
 
-[Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) es un videojuego de cartas coleccionables digital con mecánica free-to-play con microtransacciones desarrollado por Konami para Windows descargable con Steam, iOS y Android. Primero se lanza en Japón el 17 de noviembre de 2016 y se libera a nivel mundial el 11 de enero de 2017. En el lore del juego, Seto Kaiba a través de su corporación crea una realidad virtual llamada "Duel World" para reunir a los mejores duelistas para que puedan competir donde a lo largo del tiempo acompañan los personajes de las diferentes sagas y spin-offs.
+Yu-Gi-Oh! Duel Links es un videojuego de cartas coleccionables digital con mecánica free-to-play con microtransacciones desarrollado por Konami para Windows descargable con Steam, iOS y Android. Primero se lanza en Japón el 17 de noviembre de 2016 y se libera a nivel mundial el 11 de enero de 2017. En el lore del juego, Seto Kaiba a través de su corporación crea una realidad virtual llamada "Duel World" para reunir a los mejores duelistas para que puedan competir donde a lo largo del tiempo acompañan los personajes de las diferentes sagas y spin-offs.
 
 Por medio de ello realiza cada cierto tiempo la copa Kaiba Corporation para demostrar quien es el mejor duelista del planeta.
 
