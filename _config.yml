@@ -1,11 +1,23 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: <p align="center"> Naren Fragozo </p>
+
+<link rel="shortcut icon" href="https://www.flaticon.es/icono-gratis/carpeta_3921844?related_id=3921844&origin=search"  />
+
+logo: "/images/logoNaren.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/Naren_Fragozo_cv.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/naren-fragozo-5a7b7a202/">LinkedIn</a> |
+  <a href="https://github.com/Naren-7">GitHub</a>
+   <a href="https://twitter.com/naren_fragozo">Twitter</a>
+  </p>
+  
+  <p align="justify">
+  Hello, I am a programmer looking to have free and simple code for complex problems.
   <br><br>
-  Second description 
+  in the right or lower part without these from a mobile you will be able to see the projects like Data Science in which I work.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
